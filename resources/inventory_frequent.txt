@@ -1,0 +1,12 @@
+add soup
+add tangerines
+add turnips
+add szz
+add milk
+add apples
+add bread
+buy turnips
+buy tangerines
+buy szz
+buy soup
+buy milk
